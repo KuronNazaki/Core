@@ -11,11 +11,11 @@ public class Ex {
     }
 
     static public void HarmonicSum (int n) {
-        int maxDenominator = n;
+//        int maxDenominator = n;
         double sumOfLeftToRight = 0.0;
         double sumOfRightToLeft = 0.0;
 
-        for (int i = 1; i <= maxDenominator; i++) {
+        for (int i = 1; i <= n; i++) {
             sumOfLeftToRight += (double) 1/i;
         }
         System.out.println("This is the sum from left to right " + sumOfLeftToRight);
@@ -51,6 +51,7 @@ public class Ex {
             System.out.print(i + " ");
         }
     }
+}
 
 //    public static void qsort (int[] list) {
 //        quicksort(list, 0, list.length - 1);
