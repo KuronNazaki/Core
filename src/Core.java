@@ -6,7 +6,7 @@
 
 public class Core {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        System.out.println("Hello world!"); // Thử pull cái này xuống xem sao
     }
 
 }
