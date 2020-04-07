@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.io.PrintStream;
 
 // In this project, i'll learn the Java Core.
 
@@ -21,6 +20,8 @@ public class Core {
         System.out.print("c = ");
         c = scanner.nextDouble();
         System.out.format("The average of three number : %.2f", (a + b + c) / 3);
+        //Thêm gì đó vào đây nha
+        // Giờ thêm rồi nè 
     } 
 
 }
