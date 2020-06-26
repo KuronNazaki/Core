@@ -8,20 +8,19 @@ import java.util.Scanner;
 
 public class Core {
     public static void main(final String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        // Scanner scanner = new Scanner(System.in);
 
-        double a, b, c;
+        // double a, b, c;
 
-        System.out.println("Input");
-        System.out.print("a = ");
-        a = scanner.nextDouble();
-        System.out.print("b = ");
-        b = scanner.nextDouble();
-        System.out.print("c = ");
-        c = scanner.nextDouble();
-        System.out.format("The average of three number : %.2f", (a + b + c) / 3);
-        //Thêm gì đó vào đây nha
-        // Giờ thêm rồi nè 
+        // System.out.println("Input");
+        // System.out.print("a = ");
+        // a = scanner.nextDouble();
+        // System.out.print("b = ");
+        // b = scanner.nextDouble();
+        // System.out.print("c = ");
+        // c = scanner.nextDouble();
+        // System.out.format("The average of three number : %.2f", (a + b + c) / 3);
+        System.out.println("Hello world!");
     } 
 
 }
