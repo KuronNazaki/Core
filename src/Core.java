@@ -6,6 +6,7 @@ import java.util.Scanner;
 // import data.SortingAlgorithm;
 // import java.util.Scanner;
 // Ble ble
+// Lai Comment
 public class Core {
     public static void main(final String[] args) {
         // Scanner scanner = new Scanner(System.in);
